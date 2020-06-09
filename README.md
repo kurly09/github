@@ -1,8 +1,8 @@
 
-It is forked version of https://github.com/github-tools/github project.
-So if you need more details, go to and read original project.
+It is forked version of https://github.com/github-tools/github project.  
+So if you need more details, go to and read original project.  
 
-This project added just single fearue.
+This project added just single feature.
 You can create or update pull requests's reviewers. 
 
 ```javascript

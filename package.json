@@ -1,6 +1,6 @@
 {
   "name": "github-api-improved",
-  "version": "3.4.0",
+  "version": "3.4.2",
   "license": "BSD-3-Clause-Clear",
   "description": "The original project is github-api(https://github.com/github-tools/github). I just add a feature (review reqeust). So if you need further details, please read original project documents.",
   "main": "dist/components/GitHub.js",
@@ -90,13 +90,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/github-tools/github.git"
+    "url": "git://github.com/kurly09/github"
   },
   "keywords": [
     "github",
     "api"
   ],
   "bugs": {
-    "url": "https://github.com/github-tools/github/issues"
+    "url": "https://github.com/kurly09/github/issues"
   }
 }
